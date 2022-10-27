@@ -135,6 +135,7 @@ grid-template-rows: 1fr 1fr ;
     }
     .foto a img{width: 100%;
         border: solid 1px;
+        ;
     }
 
 
